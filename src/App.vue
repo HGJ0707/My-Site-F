@@ -33,7 +33,7 @@ export default {
   .self-fill(fixed);
 }
 .aside {
-  width: 250px;
+  width: 250px; 
   height: 100%; 
 }
 </style>
