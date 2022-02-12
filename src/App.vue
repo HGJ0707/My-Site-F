@@ -34,6 +34,6 @@ export default {
 }
 .aside {
   width: 250px;
-  height: 100%;
+  height: 100%; 
 }
 </style>
